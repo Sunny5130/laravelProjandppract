@@ -1,0 +1,17 @@
+//localization
+Localization in Laravel refers to the process of adapting your application to support multiple languages. Laravel provides a convenient way to manage translations using language files stored in the resources/lang directory.
+
+More Real-World Localization Examples
+Section	English	Hindi
+Login Button	“Login”	“लॉगिन करें”
+Forgot Password	“Forgot your password?”	“क्या आप पासवर्ड भूल गए हैं?”
+Register Heading	“Create an Account”	“खाता बनाएं”
+
+// types of middleware 
+global route and group
+
+//What is a Facade in Laravel?
+A Facade in Laravel is a static interface to classes that are available in the service container. Facades provide a simple and expressive syntax while hiding complex class resolution behind the scenes.
+
+
+CRUD stands for the four basic operations of Create, Read, Update, and Delete, which are essential for interacting with a database.
